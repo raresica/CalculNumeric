@@ -1,4 +1,4 @@
-
+//Sa se rezolve sistemele algebrice de ecuatii liniare
 
 --> B=[1,2,3,4;2,-3,5,-2;3,4,-2,-1;4,-1,6,-3];
 

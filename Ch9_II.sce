@@ -1,4 +1,4 @@
-//II. S ̆a se rezolve ecua ̧tiile algebrice:
+//II. S̆a se rezolve ecua̧tiile algebrice:
 //lnx = x2 −1
 //f(x)=lnx-x2+1
 

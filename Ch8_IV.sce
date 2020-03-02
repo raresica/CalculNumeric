@@ -1,4 +1,5 @@
 /*
+Sa se rezolve sistemele algebrice  de ecuatii liniare incompatibile in sensul celor mai mici patrate:
 x1 − 3x2 + x3 + x4 = 1
 x1 − 3x2 + x3 − 2x4 = −1
 x1 − 3x2 + x3 + 5x4 = 6
