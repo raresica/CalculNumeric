@@ -11,8 +11,8 @@ C13: I2	II6
 
 Cap8: Rezolvat
 <br>
-Cap9: Probleme la III---inconsistent row/column dimensions
+Cap9: Rezolvat
 <br>
-Cap10: Probleme la I---xi si la exec functiei
+Cap10: 
 
 
