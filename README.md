@@ -17,7 +17,7 @@ Cap10: Rezolvat
 <br>
 Cap11: Rezolvat
 <br>
-Cap12: 
+Cap12: II nu inteleg care e x-ul!!!!
 
 
 
