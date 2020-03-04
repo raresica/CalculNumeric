@@ -1,6 +1,6 @@
 //II. S̆a se rezolve ecua̧tiile algebrice:
-//lnx = x2 −1
-//f(x)=lnx-x2+1
+//lnx = x^2 −1
+//f(x)=lnx-x^2+1
 
 deff('y=f(x)','y=log(x)-x.^2+1')
 Warning : redefining function: f                       . Use funcprot(0) to avoid this message
