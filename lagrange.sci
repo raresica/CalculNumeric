@@ -26,7 +26,7 @@ function f=lagrange(xd,x,y)
      for i =1:nx, 
       for j =1:nx, 
        if i~=j , 
-         w( i)=w( i )*(x( i)−x( j )) , 
+         w( i)=w( i )*(x( i)-x( j )) , 
        end 
       end 
      end 
@@ -37,8 +37,8 @@ function f=lagrange(xd,x,y)
          f (i , j)=y(u); 
         else 
           for k=1:nx, 
-            p(i , j)=p(i , j)+y(k)/(xd(i , j)−x(k))/w(k); 
-            q(i , j)=q(i , j )+1/(xd(i , j)−x(k))/w(k); 
+            p(i , j)=p(i , j)+y(k)/(xd(i , j)-x(k))/w(k); 
+            q(i , j)=q(i , j )+1/(xd(i , j)-x(k))/w(k); 
           end 
           f (i , j)=p(i , j )/q(i , j ); 
         end 
