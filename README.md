@@ -13,6 +13,9 @@ Cap8: Rezolvat
 <br>
 Cap9: Rezolvat
 <br>
-Cap10: 
+Cap10: Rezolvat
+<br>
+Cap11:
+
 
 
