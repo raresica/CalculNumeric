@@ -17,7 +17,10 @@ Cap10: Rezolvat
 <br>
 Cap11: Rezolvat
 <br>
-Cap12: II nu inteleg care e x-ul!!!!
+Cap12: II nu inteleg care e x-ul!!!!  III 
+<br>
+Cap 13: II nu inteleg care e care
+
 
 
 
