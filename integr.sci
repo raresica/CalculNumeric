@@ -103,31 +103,3 @@ function z=integr2(u)
     end
     z=c*w’*hx/3
 endfunction
-
-
-
-
-
-
-function [fct, a,b, finf, fsup, tol]=datas()
-    a=;//???
-    b=;//???Ce date bag aici?
-    deff('z=fct(x,y)','z=2*x/(sqrt(1+y^4-x^4))');
-    deff('y=finf(x)','y=0');//??
-    deff('y=fsup(x)','y=1');//??
-    tol=;//???
-endfunction
-
-
-
-
-
-
-function aplicatia(cale)
-    exec('\datas.sci',-1)
-    exec('\integr.sci',-1)
-    [fct,a,b,finf,fsup,tol]=datas();
-    [integ,er]=integr(fct,a,b,finf,fsup,tol);
-    printf('error_code=%d\n',er)
-    printf('computed_integral =%f\n',integ)
-endfunction
