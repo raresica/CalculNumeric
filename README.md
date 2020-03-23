@@ -17,9 +17,9 @@ Cap10: Rezolvat
 <br>
 Cap11: Rezolvat
 <br>
-Cap12: III  
+Cap12: Rezolvat
 <br>
-Cap 13: II nu inteleg care e care
+Cap 13: II nu stiu ce sa pun in fisierul aplicatia.sci ca input arguments
 
 
 
