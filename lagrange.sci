@@ -8,7 +8,7 @@ function f=lagrange(xd,x,y)
      abort 
    end 
     xx=gsort(x); 
-    for k=1:nx−1, 
+    for k=1:nx-1, 
       if xx(k)==xx(k+1), 
         ierror=1; 
         break, 
