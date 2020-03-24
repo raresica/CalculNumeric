@@ -4,7 +4,7 @@ function u=fctlm(x,m)
 endfunction
 
 function y=f1(x,t)
-    y=x(1)*exp(x(2)*t.*t+x(3));
+    y=x(1)*exp(x(2)*-t.*t+x(3));
 endfunction
 
 function [t,y]=data(m)
